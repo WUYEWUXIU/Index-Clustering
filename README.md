@@ -1,2 +1,2 @@
 # Index-Clustering
-\sigma 
+
